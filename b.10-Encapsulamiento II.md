@@ -8,3 +8,7 @@
 ![image](https://github.com/rolando1803/POO_Pildorasinformaticas/assets/55965131/451bc30f-4503-4ac7-b94e-0265a3d0fba5)
 ![image](https://github.com/rolando1803/POO_Pildorasinformaticas/assets/55965131/dabfe9a8-cec1-407c-b28b-dd6a7a10ef7b)
 ![image](https://github.com/rolando1803/POO_Pildorasinformaticas/assets/55965131/b08f3551-a0bb-44c1-8424-a358268e0eda)
+![image](https://github.com/rolando1803/POO_Pildorasinformaticas/assets/55965131/430819fa-72bb-4043-a99f-a2adb678512d)
+![image](https://github.com/rolando1803/POO_Pildorasinformaticas/assets/55965131/e6b13283-1712-4e32-bcc5-1e733ec80c6f)
+![image](https://github.com/rolando1803/POO_Pildorasinformaticas/assets/55965131/97612652-d036-4f18-900c-20c252cd8418)
+![image](https://github.com/rolando1803/POO_Pildorasinformaticas/assets/55965131/e2cf3f70-a095-456c-84ea-f3eded46d2c4)
